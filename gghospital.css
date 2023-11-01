@@ -1,0 +1,271 @@
+
+
+body
+{
+    margin: 0;
+}
+.navbar
+{
+   
+    width:1350px;
+    background-color: rgb(231, 224, 224);
+    display: flex;
+    justify-content: space-between;
+    font-size:small;
+     color: black;
+     
+    
+    
+}
+.navbar a
+{
+    color: black;
+}
+.navitemleft
+{
+    
+    margin-left: 6.5%;
+    display:inline-flex;
+    align-items: center;
+    
+    
+    
+}
+.navitemright
+{
+    margin-right: 6.5%;
+    display: flex;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+     width: 40%;
+}
+.headbar a{
+    color: black;
+}
+
+.headbar
+{
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+    
+    
+  
+   
+}
+.lefthead
+{
+     margin-left: 6.5%;
+    display:flex;
+}
+.righthead
+{
+  
+    text-align: right;
+    display:flex;
+    margin-right:6.5%;
+    justify-content: space-around;
+    width:60%;    
+}
+.righthead a:hover
+{
+    color: red;
+}
+
+.mainpic
+{
+    position: relative;
+    text-align: center;
+        
+       
+       
+}
+.pic img
+{
+    text-align: center;
+    width: 87%;
+   
+
+    
+}
+
+.textoverimagemain
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-align: left;
+    color: black;
+    position: absolute;
+    bottom: 60%;
+    left: 15%;
+    width: 50%;
+    
+}
+.textoverimagesub
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: black;
+    position: absolute;
+    bottom: 50%;
+    left: 15%;
+}
+
+.button1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    background-color: rgb(36, 197, 149);
+    border: none;
+    color: white;
+    width: auto;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    bottom: 40%;
+    left: 15%;
+}
+.doctortalk
+{
+
+    margin-left: 2%;
+    display:flex;
+    position: absolute;
+    bottom: 42%;
+    left: 30%;
+    width:50%;
+    height:5%;
+    align-items: center;
+}
+.vid
+{
+    display: inline-flex;
+
+}
+.doctext
+{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    display:inline-flex;
+    margin-left: 1%;
+   
+}
+
+
+
+.formcontent {
+    background-color: #ffffff;
+    position: absolute;
+    width: 65%;
+    border-radius: 20px;
+    
+    margin-left: 170px;
+    margin-top: -120px;
+    
+  }
+  .formcontent h3 {
+    padding-left: 30px;
+  }
+  .formbox {
+    margin-left: 10px;
+    display: flex;
+  }
+  .formbox1 {
+    display: flex;
+  }
+  input {
+    border-radius: 6px;
+    border: 1px solid;
+    height: 40px;
+    width: 250px;
+    margin: 10px;
+  }
+ 
+  
+   
+  .formbox .button1
+{
+    /* font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    background-color: rgb(36, 197, 149);
+    border: none;
+    color: white;
+    width: auto;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; */
+    
+    padding: 15px 48px;
+    bottom: 5%;
+    left: 65.5%;
+}
+
+.sectiontwo
+{
+    margin-top:10%;
+    margin-left: 6.5%;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fleximage
+{
+    margin-left: 6.5%;
+    display: flex;
+    margin-right: 6.5%;
+    justify-content:space-between;
+}
+.flex1 h2
+{
+    
+    display: flex;
+}
+
+.flexcontainer
+{
+    flex-flow: row wrap;
+}
+.flexmaincontent
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 6.5%;
+    display: flex;
+    margin-right: 6.5%;
+    justify-content:space-between;
+   
+  
+   
+}
+.flexcontent
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 6.5%;
+    display: flex;
+    margin-right: 6.5%;
+    justify-content:space-between;
+   
+  
+   
+}
+.flexreadmore 
+{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin-left: 6.5%;
+    margin-right: 6.5%;
+    justify-content:space-between;
+    align-items: flex-start;  
+ 
+  
+}
+
+  
+  

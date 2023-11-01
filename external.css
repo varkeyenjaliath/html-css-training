@@ -1,0 +1,38 @@
+
+
+
+.align
+{
+    text-align: center;
+}
+body
+{
+    background-color: lightblue;
+}
+.heading
+{
+text-align: center;
+color: red;
+}
+.list1
+{
+    padding: 5px;
+    background-color: red;
+    margin-bottom: 20px;
+}
+.list2
+{
+    padding: 5px;
+    background-color: red;
+}
+
+.order
+{
+    background-color: darkmagenta;
+}
+.spacing
+{
+    background-color: forestgreen;
+    margin-bottom: 5px;
+}
+
